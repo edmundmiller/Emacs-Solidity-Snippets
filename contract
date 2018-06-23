@@ -3,10 +3,10 @@
 # key: contract
 # --
 /**
- * The ${1} contract ${2:does this and that...}
+ * The $1 contract ${2:does this and that...}
  */
-contract ${1:contractName} {
-	function ${1} (${3}) {
-		${0}
-	}	
+contract $1 {
+	function $1 ($3) {
+		$0
+	}
 }
