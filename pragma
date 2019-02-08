@@ -2,4 +2,4 @@
 # name: Solidity pragma
 # key: pragma
 # --
-pragma solidity ${1:^0.4.22;}
+pragma solidity ${1:^0.5.3;}
